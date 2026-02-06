@@ -1,0 +1,7 @@
+# Fichiers volumineux
+data/
+*.csv
+*.parquet
+
+# Environnement
+.venv/
