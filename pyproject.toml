@@ -12,6 +12,7 @@ dependencies = [
     "nrclex>=3.0.0",
     "pandas>=3.0.0",
     "pyarrow>=23.0.0",
+    "scikit-learn>=1.8.0",
     "seaborn>=0.13.2",
     "spacy>=3.8.11",
     "vadersentiment>=3.3.2",
