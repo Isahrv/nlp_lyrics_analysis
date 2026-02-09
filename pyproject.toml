@@ -17,5 +17,7 @@ dependencies = [
     "seaborn>=0.13.2",
     "spacy>=3.8.11",
     "statsmodels>=0.14.6",
+    "textstat>=0.7.12",
+    "textstats>=0.1.2",
     "vadersentiment>=3.3.2",
 ]
